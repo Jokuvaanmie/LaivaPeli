@@ -1,0 +1,2 @@
+5.5.4p4:2.8.0.0
+StandaloneWindows
