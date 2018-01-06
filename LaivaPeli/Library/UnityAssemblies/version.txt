@@ -1,2 +1,24 @@
 5.5.4p4:2.8.0.0
 StandaloneWindows
+M:/Ohjelmat/unity/Editor/Data/Managed/UnityEngine.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+M:/Ohjelmat/unity/Editor/Data/Managed/UnityEditor.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/Editor/UnityEditor.PlaymodeTestsRunner.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll
+M:/Ohjelmat/unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll
+M:/Ohjelmat/unity/Editor/Data/Managed/UnityEditor.Graphs.dll
+M:/Ohjelmat/unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+M:/Ohjelmat/unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
