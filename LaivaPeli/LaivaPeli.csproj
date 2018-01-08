@@ -292,6 +292,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\com\heparo\terrain\toolkit\scripts\TerrainToolkit.cs" />
+    <Compile Include="Assets\Scripts\switchMode.cs" />
     <Compile Include="Assets\Scripts\vene.cs" />
   </ItemGroup>
   <ItemGroup>
