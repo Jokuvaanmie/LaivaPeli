@@ -302,6 +302,7 @@
     <Compile Include="Assets\com\heparo\terrain\toolkit\editor\TerrainToolkitEditor.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />

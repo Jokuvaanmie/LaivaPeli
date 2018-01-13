@@ -292,10 +292,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\com\heparo\terrain\toolkit\scripts\TerrainToolkit.cs" />
+    <Compile Include="Assets\Scripts\floatObject.cs" />
     <Compile Include="Assets\Scripts\switchMode.cs" />
     <Compile Include="Assets\Scripts\vene.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
