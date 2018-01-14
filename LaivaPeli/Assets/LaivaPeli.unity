@@ -143,7 +143,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 318309020}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 18.66, y: 29.65, z: 21.63}
+  m_LocalPosition: {x: 18.31, y: 29.02, z: 20.09}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1053349541}
@@ -162,7 +162,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: b544816461f324e56a39767fdeb5b114, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 15
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: b544816461f324e56a39767fdeb5b114, type: 2}
       propertyPath: m_LocalPosition.z
@@ -455,7 +455,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 18.34
+      value: 28.51
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
       propertyPath: m_LocalPosition.z
@@ -575,7 +575,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1053349540}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 128.6, y: -11.89, z: 131}
+  m_LocalPosition: {x: 128.6, y: -1.36, z: 131}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 318309021}
@@ -623,7 +623,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d00de939f6493884787448d9e7a835c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waterLevel: -13
+  waterLevel: 0
   floatTheshold: 0.1
   waterDensity: 0.125
   downForce: 1
@@ -755,8 +755,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1465933030}
-  m_LocalRotation: {x: -0.2818881, y: 0.20157173, z: 0.06070033, w: 0.93606806}
-  m_LocalPosition: {x: -23.90145, y: -2800.133, z: -75.889694}
+  m_LocalRotation: {x: 0.09627014, y: 0.64395255, z: 0.08216262, w: -0.75452405}
+  m_LocalPosition: {x: -46.732216, y: -5.3349037, z: -46.990044}
   m_LocalScale: {x: 0.02, y: 0.77141553, z: 0.24858443}
   m_Children: []
   m_Father: {fileID: 505828905}
@@ -937,6 +937,8 @@ MonoBehaviour:
   boatCamera: {fileID: 193178967}
   player: {fileID: 1650075267}
   playerStartPos: {fileID: 318309020}
+  varmistusAika: 2
+  enterKey: 101
 --- !u!1 &1650075267 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
@@ -1073,12 +1075,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2102413471}
-  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: -0.7071068}
-  m_LocalPosition: {x: 166.62375, y: 6.146511, z: 149.7065}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: 0.009868962, y: 0.72833335, z: 0.010492587, w: -0.6850715}
+  m_LocalPosition: {x: -46.832993, y: -5.0316505, z: -46.985203}
+  m_LocalScale: {x: 0.020000009, y: 1, z: 0.020000009}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_Father: {fileID: 505828905}
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2130069355
 GameObject:
